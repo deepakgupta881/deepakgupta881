@@ -32,5 +32,5 @@ I specialize in building high-performance, scalable mobile applications. With a 
 ---
 
 ### 📫 Let's Connect
-* 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/deepak-gupta-88450938/))
+* 💼 [LinkedIn](https://www.linkedin.com/in/deepak-gupta-88450938/)
 
