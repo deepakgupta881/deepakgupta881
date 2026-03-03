@@ -25,12 +25,6 @@ I specialize in building high-performance, scalable mobile applications. With a 
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=deepakgupta881&show_icons=true&theme=radical&hide_border=true" alt="Deepak's GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=deepakgupta881&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
 ### 📫 Let's Connect
 * 💼 [LinkedIn](https://www.linkedin.com/in/deepak-gupta-88450938/)
 
